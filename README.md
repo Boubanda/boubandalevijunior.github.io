@@ -1,169 +1,171 @@
-<!-- README de Boubanda Levi Junior -->
+<<!-- README de Boubanda Levi Junior -->
 
 <div align="center">
 
 # 👨‍💻 BOUBANDA LEVI JUNIOR  
-*Étudiant en IA & Data Science @ Aivancity*  
+*Étudiant en IA & Data Science @ Aivancity Paris-Cachan*  
 🎯 **À la recherche d’une alternance IA/Data - Septembre 2025**
-*Passionné par la **data** et l’**intelligence artificielle**, je suis étudiant en **Bac+4 spécialisé en Data Science & IA** à Aivancity Paris-Cachan.  
-📊 Je combine une **solide base scientifique**, des **compétences avancées en modélisation**, et une forte capacité à **rendre l’IA utile dans les projets métiers**.
 
-👨‍💼 En plus de mes compétences techniques, j’ai une **appétence forte pour l’analyse de performance**, la **visualisation** et l’**extraction de valeur** à partir des données.  
-🚀 Mon objectif : mettre l’intelligence artificielle au service de la **prise de décision**, de **l’efficacité opérationnelle**, et de **l'impact utilisateur**.
-
-
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-boubandalevijunior.github.io-blue?style=for-the-badge)](https://boubandalevijunior.github.io)
-[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lévi-junior016)
-[![Email](https://img.shields.io/badge/📧_Contact-leviboubanda07@gmail.com-red?style=for-the-badge)](mailto:leviboubanda07@gmail.com)
+🚀 Passionné par la **data**, l’**intelligence artificielle** et la **résolution de problèmes métiers** via des solutions innovantes et scalables.  
+🎓 Actuellement en **Bac+4**, je combine une solide base scientifique, une expertise en modélisation IA, et une capacité à **rendre la donnée exploitable et décisionnelle**.
 
 </div>
 
 ---
 
+## 📌 Sommaire
+
+- [👨‍🎓 Profil](#-profil)
+- [🛠️ Stack Technologique](#-stack-technologique)
+- [💡 Projets Phares](#-projets-phares)
+- [🧰 Stack Technique & IA](#-stack-technique--ia)
+- [📊 Vision & Optimisation des Processus](#-vision--optimisation-des-processus)
+- [🌍 Version Anglaise](#-version-anglaise)
+- [📈 Statistiques GitHub](#-statistiques-github)
+- [📫 Contact](#-contact)
+
+---
+
 ## 👨‍🎓 Profil
-Étudiant en 4ème année à **Aivancity** en Intelligence Artificielle & Data Science, je recherche une alternance à partir de **septembre 2025** comme :
 
-- **Data Scientist**
-- **Data Analyst**
+🎓 Étudiant en 4e année à **Aivancity** (IA & Data Science)  
+🔍 Spécialisé en :
 
-🔍 **Spécialisations** :  
-`Machine Learning` `Deep Learning` `NLP` `Computer Vision` `Big Data` `MLOps`
+- **Data Science**
+- **Machine Learning**
+- **NLP / Computer Vision**
+- **MLOps & Big Data**
+- **Data Visualisation & Business Intelligence**
+
+💼 Je recherche une **alternance (12-24 mois)** à partir de **septembre 2025** comme :
+
+- Data Scientist  
+- Data Analyst  
+- Ingénieur IA / ML  
+- MLOps / LLM Engineer
 
 ---
 
 ## 🛠️ Stack Technologique
 
-### 🔹 Data Science & IA
+### 🔹 IA & Modélisation
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-017CEE?logo=xgboost&logoColor=white)
 
-### 🔹 Data Visualization
+### 🔹 DataViz & BI
 ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 
-### 🔹 DevOps & Cloud
+### 🔹 Cloud & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 
 ---
 
 ## 💡 Projets Phares
 
-### 🌾 Recommandation Agricole Intelligente
-[![Open Project](https://img.shields.io/badge/🔗_Voir_le_projet-2EA44F?style=for-the-badge)](lien-github)
-- Application Streamlit pour recommandations de cultures
-- Technologies : `Python` `GeoPandas` `Folium` `Streamlit`
+| Projet | Description | Technologies |
+|--------|-------------|--------------|
+| 🌾 **Recommandation Agricole** | App IA pour choix de cultures selon sol et climat | `Python`, `GeoPandas`, `Streamlit` |
+| 🏦 **Détection de Fraude** | Classification de transactions bancaires suspectes | `XGBoost`, `Scikit-learn`, `Pandas` |
+| 🤖 **Chatbot Éducatif** | Assistant RAG pour lycéens (FAQ automatisée) | `LangChain`, `LLMs`, `HuggingFace` |
 
-### 🏦 Détection de Fraude Bancaire
-- Modèle XGBoost pour identification des transactions suspectes
-- Technologies : `XGBoost` `Scikit-learn` `Pandas` `Matplotlib`
-
-### 🤖 Chatbot Éducatif
-- Assistant IA pour lycées utilisant RAG
-- Technologies : `LangChain` `LLMs` `HuggingFace`
+📂 Plus de projets sur mon [portfolio](https://boubandalevijunior.github.io)
 
 ---
 
-<div align="center">
-  
-## 📈 Statistiques GitHub
+## 🧰 Stack Technique & IA
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=boubandalevijunior&show_icons=true&theme=radical)
+### 🧠 IA & Science des Données
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boubandalevijunior&layout=compact&theme=radical)
+- **Machine Learning** : Supervised/Unsupervised, Classification, Clustering  
+- **Deep Learning** : CNN, RNN, LSTM, Transformers  
+- **NLP** : TF-IDF, Word Embeddings, RAG, Large Language Models  
+- **Computer Vision** : Object Detection, Image Segmentation  
+- **Feature Engineering** : Analyse exploratoire, normalisation, sélection de variables
 
-</div>
+### 🔧 Outils & Langages
+
+| Langages           | Librairies/Data Science                             | Visualisation & BI              |
+|--------------------|-----------------------------------------------------|---------------------------------|
+| Python, SQL, R     | Scikit-learn, Pandas, NumPy, TensorFlow, PyTorch    | Matplotlib, Seaborn, Plotly     |
+|                    | XGBoost, LightGBM, Keras, HuggingFace Transformers  | Power BI, Tableau, Streamlit    |
+
+### ☁️ Cloud, DevOps & Déploiement
+
+| Dev & MLOps        | APIs / Frameworks        | Cloud & Monitoring             |
+|--------------------|--------------------------|--------------------------------|
+| Docker, Git, CI/CD | Flask, FastAPI, LangChain | AWS, GCP, Azure, MLflow, DVC   |
+| Kubernetes         | Streamlit (app front)    | GitHub Actions, REST APIs      |
+
+---
+
+## 📊 Vision & Optimisation des Processus
+
+En tant que Data Scientist, je m’intéresse à l’usage de la data pour améliorer les **processus RH et métier**.
+
+### ⚡️ Accélérer le recrutement
+
+- Réduire à **2–3 entretiens maximum**
+- Organiser des **assessment centers** pour tout tester en une journée
+- Mettre en place un **recrutement continu** via talent pool
+
+### 📈 Suivi & amélioration continue
+
+- **KPI RH** : Taux d’abandon, temps de traitement, satisfaction candidat  
+- **Optimisation des étapes critiques** (ex. test technique trop long = abandon)  
+- Utiliser l’**analytics RH** pour ajuster les pratiques
+
+> 🎯 *Ma conviction : la donnée peut rendre les recrutements plus rapides, équitables et efficaces.*
 
 ---
 
 ## 🌍 Version Anglaise
 
 ### 👨‍🎓 About Me
-4th-year **AI & Data Science** student at Aivancity, seeking a **Data Scientist/Analyst** position starting **September 2025**.
+4th-year **AI & Data Science** student at Aivancity Paris-Cachan.  
+Looking for a **12-24 month apprenticeship** as a:
 
-### 🚀 Featured Projects
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| Smart Crop Advisor | AI-powered agricultural recommendation system | Python, Streamlit |
-| Fraud Detection | ML model for banking transactions | XGBoost, Sklearn |
+- Data Scientist  
+- Machine Learning Engineer  
+- Data Analyst  
+- MLOps / LLM Engineer
+
+### 🚀 Projects
+| Project | Description | Tools |
+|--------|-------------|-------|
+| Smart Crop Advisor | Streamlit app for crop recommendation based on geo data | Python, Streamlit, GeoPandas |
+| Fraud Detection | Predictive model for banking fraud | XGBoost, Scikit-learn |
+| RAG Chatbot | LLM-powered chatbot for high school students | LangChain, LLMs, FastAPI |
 
 ---
+
+## 📈 Statistiques GitHub
 
 <div align="center">
-  
-📫 **Contactez-moi pour des opportunités professionnelles**  
-[![Email](https://img.shields.io/badge/leviboubanda07@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leviboubanda07@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lévi-junior016)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=boubandalevijunior&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boubandalevijunior&layout=compact&theme=radical)
 
 </div>
-## 🧠 Vision & Optimisation des Processus
-
-En tant que futur Data Scientist orienté performance, je m’intéresse aussi à l’impact de la **data dans l’optimisation des processus RH** et décisionnels. Voici quelques leviers clés que je valorise dans un contexte de recrutement ou de gestion projet :
-
-### ⚡️ Accélérer le processus et réduire les délais
-
-- 🔽 **Réduire le temps entre les entretiens et la décision** :
-  - Limiter à **2 à 3 tours d’entretiens maximum**.
-  - Organiser des **ateliers de recrutement (assessment centers)** pour évaluer plusieurs compétences en **une seule journée**.
-  
-- 🔁 **Privilégier des processus agiles** :
-  - Mettre en place un **recrutement continu** sur les postes clés via une approche *talent pool*.
-  - Adopter un suivi rapide des candidatures avec synchronisation RH & tech.
 
 ---
 
-### 📊 Mesurer & Optimiser en continu
+## 📫 Contact
 
-- 📉 **Utiliser des KPIs de recrutement pour piloter la performance** :
-  - Taux d’abandon des candidatures
-  - Temps moyen entre les étapes
-  - Satisfaction candidat (via enquêtes post-processus)
+<div align="center">
 
-- 🔍 **Optimiser à partir des données collectées** :
-  - Exemple : si de nombreux candidats abandonnent à l'étape du test technique, cela peut indiquer un **test trop long ou mal calibré**, à retravailler.
-  - Identifier les étapes créant le plus de friction ou de lenteur.
+📧 [leviboubanda07@gmail.com](mailto:leviboubanda07@gmail.com)  
+🌐 [boubandalevijunior.github.io](https://boubandalevijunior.github.io)  
+💼 [linkedin.com/in/lévi-junior016](https://linkedin.com/in/lévi-junior016)
 
----
-
-🎯 *Ma conviction : l'IA, les données et la clarté des process peuvent rendre les recrutements plus justes, plus rapides et plus humains.*
----
-
-## 🧰 Stack Technique & IA
-
-### 🧠 Science des données & Intelligence Artificielle
-
-- **Apprentissage automatique** : Supervised & Unsupervised Learning, Classification, Régression, Clustering  
-- **Deep Learning** : CNN, RNN, LSTM, Transformers, Attention Mechanism  
-- **NLP** : TF-IDF, Word Embeddings, Transformers, RAG (Retrieval-Augmented Generation)  
-- **Computer Vision** : Détection, Segmentation, Reconnaissance d’images  
-- **Modèles avancés** : XGBoost, LightGBM, Random Forest, KMeans  
-- **Analyse de données** : Statistiques descriptives, feature engineering, analyse exploratoire (EDA)
-
----
-
-### 🔹 Outils & Langages
-
-| Langages           | Librairies/Data Science                                | Visualisation & BI              |
-|--------------------|--------------------------------------------------------|---------------------------------|
-| Python, SQL, R     | Scikit-learn, Pandas, NumPy, TensorFlow, PyTorch       | Matplotlib, Seaborn, Plotly     |
-|                    | XGBoost, LightGBM, Keras, Transformers (HF), TF-IDF    | Power BI, Tableau, Streamlit    |
-
----
-
-### ☁️ Cloud, DevOps & Déploiement
-
-| Dev & MLOps        | APIs / Frameworks      | Cloud & Monitoring              |
-|--------------------|------------------------|---------------------------------|
-| Docker, Git, CI/CD | Flask, FastAPI, LangChain | AWS, GCP, Azure, MLflow, DVC    |
-| Kubernetes         | Streamlit (app front)  | GitHub Actions, API REST        |
-
----
-
-🧠 *Mon stack me permet de couvrir l’ensemble du cycle de vie d’un projet IA : de la collecte à la mise en production, en passant par la modélisation, le monitoring et l'optimisation continue.*
+</div>
