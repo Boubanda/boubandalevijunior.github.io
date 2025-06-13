@@ -56,6 +56,51 @@
 <details>
 <summary>📊 <strong>Visualisation globale (Mermaid)</strong></summary>
 
+## 🛠️ Stack technique
+
+| 🧪 Data Science & IA | 💻 Dev & Visualisation | ☁️ Cloud & MLOps |
+|----------------------|------------------------|------------------|
+| `ML` • `DL` • `NLP` • `Vision` | `Python` • `SQL` • `Pandas` • `Plotly` • `Power BI` | `AWS` • `GCP` • `Azure ML` • `MLflow` |
+| `XGBoost` • `Transformers` | `Scikit-learn` • `TensorFlow` • `PyTorch` | `Docker` • `CI/CD` • `LangChain` |
+
+---
+
+## 🚀 Projets récents
+
+| 🔍 Projet | 🧠 Description | ⚙️ Techno |
+|----------|----------------|----------|
+| 🌾 **Recommandation de cultures** | App Streamlit interactive pour agriculture intelligente | `Streamlit`, `GeoPandas`, `Folium` |
+| 🎬 **Analyse de sentiments IMDb** | Classification d’opinions avec LSTM | `Keras`, `NLP`, `LSTM` |
+| 🛡️ **Détection de fraude bancaire** | Prédiction supervisée de transactions frauduleuses | `XGBoost`, `Sklearn` |
+| 🤖 **Chatbot IA (RAG)** | Assistant éducatif pour lycéens d’Île-de-France | `LangChain`, `LLM`, `FastAPI` |
+| 🧠 **CNN CIFAR-10** | Classification d’images multi-catégories | `TensorFlow`, `CNN` |
+
+🔗 Voir plus de projets sur : [**Mon Portfolio**](https://boubandalevijunior.github.io)
+
+---
+
+## 🧩 Profil en Python
+
+```python
+class DataScientist:
+    def __init__(self):
+        self.name = "Boubanda Levi Junior"
+        self.school = "Aivancity | IA & Data Science"
+        self.status = "🔎 Alternance dès Septembre 2025"
+        self.skills = ["ML", "DL", "NLP", "Vision", "MLOps"]
+        self.tools = {
+            "Langages": ["Python", "SQL", "R"],
+            "Frameworks": ["Scikit-learn", "XGBoost", "PyTorch"],
+            "Cloud": ["AWS", "GCP", "Azure"],
+            "Apps": ["Streamlit", "FastAPI", "LangChain"]
+        }
+
+    def __str__(self):
+        return f"{self.name} | {self.status}"
+
+me = DataScientist()
+print(me)
+
 ```mermaid
 pie showData
     title Compétences IA & Data Science
