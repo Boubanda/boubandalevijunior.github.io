@@ -197,3 +197,17 @@ Looking for a **12-24 month apprenticeship** as a:
 💼 [linkedin.com/in/lévi-junior016](https://linkedin.com/in/lévi-junior016)
 
 </div>
+---
+
+## 🕓 Mon Parcours en Timeline (Formation)
+
+```mermaid
+timeline
+    title Diplômes & Formations
+
+    2019 : Baccalauréat Technologique  
+    2020 : Entrée à l’École Supérieure Privée d'Ingénieurs de Monastir (Tunisie)  
+    2022 : Diplôme du Premier Cycle en Technologie obtenu  
+    2023 : Intégration du Programme Grande École en IA & Data à Aivancity Paris-Cachan  
+    2025 : Obtention prévue du diplôme BAC+5 (Data Science & Intelligence Artificielle)
+
