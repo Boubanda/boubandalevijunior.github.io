@@ -1,83 +1,97 @@
-# boubandalevijunior.github.io
+<div align="center">
+  
+# 🚀 BOUBANDA LEVI JUNIOR
+**Data Science & AI Enthusiast | Future Data Scientist**
 
-# 👋 Bonjour, je suis BOUBANDA LEVI JUNIOR
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-boubandalevijunior.github.io-blue?style=for-the-badge)](https://boubandalevijunior.github.io)
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lévi-junior016)
+[![Email](https://img.shields.io/badge/📧_Contact-leviboubanda07@gmail.com-red?style=for-the-badge)](mailto:leviboubanda07@gmail.com)
 
-## 👨‍🎓 Qui suis-je ?
-Étudiant en 4ème année à Aivancity en **Intelligence Artificielle & Data Science**, je recherche une alternance à partir de septembre 2025 comme **Data Scientist** ou **Data Analyst**.
+</div>
 
-Je développe des projets IA orientés applications pratiques avec :
-- Machine Learning (supervisé/non-supervisé, deep learning)
-- NLP, Computer Vision, Big Data, MLOps
-- Streamlit, Python, SQL, Spark, Scikit-learn, TensorFlow/PyTorch
+---
 
-## 🛠️ Compétences techniques
+## 👨‍🎓 Profil
+Étudiant en 4ème année à **Aivancity** en Intelligence Artificielle & Data Science, je recherche une alternance à partir de **septembre 2025** comme :
+
+- **Data Scientist**
+- **Data Analyst**
+
+🔍 **Spécialisations** :  
+`Machine Learning` `Deep Learning` `NLP` `Computer Vision` `Big Data` `MLOps`
+
+---
+
+## 🛠️ Stack Technologique
+
 ### 🔹 Data Science & IA
-Machine Learning • Deep Learning • NLP • Computer Vision • Data Analysis • XGBoost • CNN/RNN • Transformers
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-017CEE?logo=xgboost&logoColor=white)
 
-### 🔹 Outils & Langages
-Python • SQL • Scikit-learn • Pandas • NumPy • TensorFlow/PyTorch • Seaborn • Matplotlib • Plotly • Power BI • Tableau
+### 🔹 Data Visualization
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
 
-### 🔹 Dev & Cloud
-Docker • Git • CI/CD • Flask/FastAPI • AWS/GCP/Azure • MLflow • LangChain • Streamlit
-
-## 📁 Projets phares
-| Projet | Description | Technologies |
-|--------|-------------|--------------|
-| **[Recommandation de culture](lien-github)** | Appli Streamlit pour recommandations agricoles | Streamlit, GeoPandas, Folium |
-| **Classification CIFAR-10** | CNN pour classification d'images | TensorFlow, CNN |
-| **Détection de fraude bancaire** | Modèle supervisé pour transactions frauduleuses | XGBoost, Sklearn |
-| **Chatbot RAG** | Assistant IA pour lycées d'IDF | LangChain, LLMs |
-| **Analyse de sentiments (IMDb)** | LSTM pour critiques de films | Keras, NLP |
-
-➡️ Plus de projets sur [mon portfolio](https://boubandalevijunior.github.io)
-
-## 📫 Contact
-- 📧 **Email** : [leviboubanda07@gmail.com](mailto:leviboubanda07@gmail.com)  
-- 🔗 **LinkedIn** : [linkedin.com/in/lévi-junior016](https://linkedin.com/in/lévi-junior016)  
-- 🌐 **Portfolio** : [boubandalevijunior.github.io](https://boubandalevijunior.github.io)  
+### 🔹 DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white)
 
 ---
 
-# 👋 Hi there, I'm Boubanda Levi Junior
+## 💡 Projets Phares
 
-## 👨‍🎓 About Me
-4th-year AI & Data Science student at **Aivancity**, seeking a **Data Scientist/Analyst apprenticeship** starting September 2025.
+### 🌾 Recommandation Agricole Intelligente
+[![Open Project](https://img.shields.io/badge/🔗_Voir_le_projet-2EA44F?style=for-the-badge)](lien-github)
+- Application Streamlit pour recommandations de cultures
+- Technologies : `Python` `GeoPandas` `Folium` `Streamlit`
 
-I build practical AI solutions with:
-- Predictive modeling (ML/DL)
-- Natural Language Processing
-- Computer Vision
-- Data Engineering & MLOps
+### 🏦 Détection de Fraude Bancaire
+- Modèle XGBoost pour identification des transactions suspectes
+- Technologies : `XGBoost` `Scikit-learn` `Pandas` `Matplotlib`
 
-## 🔧 Tech Stack
-### 📊 Data & AI
-Supervised/Unsupervised Learning • CNN/RNN • Transformers • XGBoost • NLP • RAG
-
-### 🛠️ Tools
-Python • SQL • Scikit-learn • TensorFlow/PyTorch • Pandas • Power BI • Tableau
-
-### ☁️ DevOps
-Docker • Git • CI/CD • AWS/Azure/GCP • FastAPI • LangChain
-
-## 🚀 Featured Projects
-| Project | Description | Tools |
-|---------|-------------|-------|
-| **Crop Recommender** | Streamlit app for optimal crop suggestions | Streamlit, GeoPandas |
-| **CIFAR-10 Classifier** | CNN model for image classification | TensorFlow |
-| **Fraud Detection** | Banking transaction fraud model | XGBoost, Sklearn |
-
-👉 Full portfolio: [boubandalevijunior.github.io](https://boubandalevijunior.github.io)
-
-## 📬 Let's Connect
-- 📧 **Email**: [leviboubanda07@gmail.com](mailto:leviboubanda07@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/lévi-junior016](https://linkedin.com/in/lévi-junior016)
-- 🌐 **Portfolio**: [boubandalevijunior.github.io](https://boubandalevijunior.github.io)
+### 🤖 Chatbot Éducatif
+- Assistant IA pour lycées utilisant RAG
+- Technologies : `LangChain` `LLMs` `HuggingFace`
 
 ---
 
-> Merci pour votre visite !/Thanks for visiting!  
-> N'hésitez pas à me contacter pour des opportunités./Feel free to reach out for collaborations.
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=boubandalevijunior&show_icons=true)
+<div align="center">
+  
+## 📈 Statistiques GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=boubandalevijunior&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boubandalevijunior&layout=compact&theme=radical)
+
+</div>
+
+---
+
+## 🌍 Version Anglaise
+
+### 👨‍🎓 About Me
+4th-year **AI & Data Science** student at Aivancity, seeking a **Data Scientist/Analyst** position starting **September 2025**.
+
+### 🚀 Featured Projects
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| Smart Crop Advisor | AI-powered agricultural recommendation system | Python, Streamlit |
+| Fraud Detection | ML model for banking transactions | XGBoost, Sklearn |
+
+---
+
+<div align="center">
+  
+📫 **Contactez-moi pour des opportunités professionnelles**  
+[![Email](https://img.shields.io/badge/leviboubanda07@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leviboubanda07@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lévi-junior016)
+
+</div>
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=boubandalevijunior&show_icons=true)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
