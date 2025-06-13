@@ -180,4 +180,4 @@ timeline
     2020 : Entrée à l’École Supérieure Privée d'Ingénieurs de Monastir (Tunisie)  
     2022 : Diplôme du Premier Cycle en Technologie obtenu  
     2023 : Intégration du Programme Grande École en IA & Data à Aivancity Paris-Cachan  
-    2025 : Obtention prévue du diplôme BAC+5 (Data Science & Intelligence Artificielle)
+    2027 : Obtention prévue du diplôme BAC+5 (Data Science & Intelligence Artificielle)
