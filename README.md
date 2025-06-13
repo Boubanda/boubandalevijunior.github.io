@@ -79,3 +79,5 @@ Docker • Git • CI/CD • AWS/Azure/GCP • FastAPI • LangChain
 > N'hésitez pas à me contacter pour des opportunités./Feel free to reach out for collaborations.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=boubandalevijunior&show_icons=true)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=boubandalevijunior&show_icons=true)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
