@@ -9,6 +9,34 @@
 🚀 Passionné par la **data**, l’**intelligence artificielle** et la **résolution de problèmes métiers** via des solutions innovantes et scalables.  
 🎓 Actuellement en **Bac+4**, je combine une solide base scientifique, une expertise en modélisation IA, et une capacité à **rendre la donnée exploitable et décisionnelle**.
 
+
+---
+
+## 🎓 Diplômes & Formations
+
+### 🎓 Programme Grande École – Intelligence Artificielle & Data Science (BAC+5)  
+📍 *Aivancity School for Technology, Business & Society – Paris-Cachan*  
+📅 Depuis **septembre 2023** – En cours  
+- Programme reconnu par l'État et délivrant un diplôme visé BAC+5  
+- Focus : IA appliquée, Data Science, Machine Learning, MLOps, Big Data, LLMs  
+
+---
+
+### 🎓 Diplôme des Études Universitaires du Premier Cycle en Technologie  
+📍 *École Supérieure Privée d'Ingénieurs de Monastir (Tunisie)*  
+📅 **Septembre 2020 – Juillet 2022**  
+- Tronc commun en ingénierie :  
+  `Analyse`, `Algèbre`, `Physique`, `Automatisme`, `Informatique`, `Conception mécanique`  
+- Initiation à la modélisation technique, systèmes automatisés et outils numériques d'ingénieur  
+
+---
+
+### 🎓 Baccalauréat Technologique  
+📍 *Lycée Technique National Omar Bongo – Libreville (Gabon)*  
+📅 **Septembre 2019 – Juillet 2020**  
+- Série technologique axée sur les sciences de l’ingénieur et les bases scientifiques appliquées  
+
+
 </div>
 
 ---
