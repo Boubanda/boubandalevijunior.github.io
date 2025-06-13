@@ -12,103 +12,94 @@
 🚀 Mon objectif : mettre l’intelligence artificielle au service de la **prise de décision**, de **l’efficacité opérationnelle**, et de **l'impact utilisateur**.
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-levi--junior016-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lévi-junior016)  
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-boubandalevijunior.github.io-22D3EE?style=for-the-badge)](https://boubandalevijunior.github.io)  
-[![Email](https://img.shields.io/badge/📧%20Email-leviboubanda07@gmail.com-informational?style=for-the-badge)](mailto:leviboubanda07@gmail.com)
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-boubandalevijunior.github.io-blue?style=for-the-badge)](https://boubandalevijunior.github.io)
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lévi-junior016)
+[![Email](https://img.shields.io/badge/📧_Contact-leviboubanda07@gmail.com-red?style=for-the-badge)](mailto:leviboubanda07@gmail.com)
 
 </div>
+
+---
+
+## 👨‍🎓 Profil
+Étudiant en 4ème année à **Aivancity** en Intelligence Artificielle & Data Science, je recherche une alternance à partir de **septembre 2025** comme :
+
+- **Data Scientist**
+- **Data Analyst**
+
+🔍 **Spécialisations** :  
+`Machine Learning` `Deep Learning` `NLP` `Computer Vision` `Big Data` `MLOps`
+
+---
+
+## 🛠️ Stack Technologique
+
+### 🔹 Data Science & IA
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-017CEE?logo=xgboost&logoColor=white)
+
+### 🔹 Data Visualization
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
+
+### 🔹 DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white)
+
+---
+
+## 💡 Projets Phares
+
+### 🌾 Recommandation Agricole Intelligente
+[![Open Project](https://img.shields.io/badge/🔗_Voir_le_projet-2EA44F?style=for-the-badge)](lien-github)
+- Application Streamlit pour recommandations de cultures
+- Technologies : `Python` `GeoPandas` `Folium` `Streamlit`
+
+### 🏦 Détection de Fraude Bancaire
+- Modèle XGBoost pour identification des transactions suspectes
+- Technologies : `XGBoost` `Scikit-learn` `Pandas` `Matplotlib`
+
+### 🤖 Chatbot Éducatif
+- Assistant IA pour lycées utilisant RAG
+- Technologies : `LangChain` `LLMs` `HuggingFace`
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&height=60&lines=Data+Scientist+en+devenir+%F0%9F%9A%80;Ingénieur+IA+%7C+Passionné+de+problèmes+complexes;Disponible+en+alternance+Septembre+2025" alt="Typing animation" />
+  
+## 📈 Statistiques GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=boubandalevijunior&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boubandalevijunior&layout=compact&theme=radical)
+
 </div>
 
 ---
 
-## 👨‍🎓 Qui suis-je ?
+## 🌍 Version Anglaise
 
-🎓 Étudiant en 4e année à **Aivancity Paris-Cachan**, je me spécialise dans l’**Intelligence Artificielle**, la **Data Science** et les **systèmes intelligents déployables en production**.
+### 👨‍🎓 About Me
+4th-year **AI & Data Science** student at Aivancity, seeking a **Data Scientist/Analyst** position starting **September 2025**.
 
-🚀 Curieux, passionné et pragmatique, je transforme des problématiques métiers en **solutions IA concrètes**, robustes et scalables.
-
-💼 En recherche d’une **alternance de 12 à 24 mois à partir de septembre 2025**, je souhaite contribuer à des projets innovants en tant que :
-
-- 🔍 **Data Scientist**
-- 🤖 **Ingénieur IA / Machine Learning**
-- 🧠 **Analyste Données**
-- ⚙️ **MLOps Engineer / LLM Engineer**
+### 🚀 Featured Projects
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| Smart Crop Advisor | AI-powered agricultural recommendation system | Python, Streamlit |
+| Fraud Detection | ML model for banking transactions | XGBoost, Sklearn |
 
 ---
 
-## 🔥 En un clin d'œil
+<div align="center">
+  
+📫 **Contactez-moi pour des opportunités professionnelles**  
+[![Email](https://img.shields.io/badge/leviboubanda07@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leviboubanda07@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lévi-junior016)
 
-| 🎯 Objectif       | 🔍 Alternance 12-24 mois à partir de Septembre 2025        |
-|------------------|------------------------------------------------------------|
-| 🏫 École          | Aivancity Paris-Cachan – Intelligence Artificielle & Data |
-| 📍 Localisation   | Île-de-France / Hybride / Remote                          |
-| 📚 Spécialités    | Machine Learning, NLP, Vision, MLOps, Data Engineering    |
-
----
-
-## 🧠 Mes Compétences
-
-<details>
-<summary>📊 <strong>Visualisation globale (Mermaid)</strong></summary>
-
-## 🛠️ Stack technique
-
-| 🧪 Data Science & IA | 💻 Dev & Visualisation | ☁️ Cloud & MLOps |
-|----------------------|------------------------|------------------|
-| `ML` • `DL` • `NLP` • `Vision` | `Python` • `SQL` • `Pandas` • `Plotly` • `Power BI` | `AWS` • `GCP` • `Azure ML` • `MLflow` |
-| `XGBoost` • `Transformers` | `Scikit-learn` • `TensorFlow` • `PyTorch` | `Docker` • `CI/CD` • `LangChain` |
-
----
-
-## 🚀 Projets récents
-
-| 🔍 Projet | 🧠 Description | ⚙️ Techno |
-|----------|----------------|----------|
-| 🌾 **Recommandation de cultures** | App Streamlit interactive pour agriculture intelligente | `Streamlit`, `GeoPandas`, `Folium` |
-| 🎬 **Analyse de sentiments IMDb** | Classification d’opinions avec LSTM | `Keras`, `NLP`, `LSTM` |
-| 🛡️ **Détection de fraude bancaire** | Prédiction supervisée de transactions frauduleuses | `XGBoost`, `Sklearn` |
-| 🤖 **Chatbot IA (RAG)** | Assistant éducatif pour lycéens d’Île-de-France | `LangChain`, `LLM`, `FastAPI` |
-| 🧠 **CNN CIFAR-10** | Classification d’images multi-catégories | `TensorFlow`, `CNN` |
-
-🔗 Voir plus de projets sur : [**Mon Portfolio**](https://boubandalevijunior.github.io)
-
----
-
-## 🧩 Profil en Python
-
-```python
-class DataScientist:
-    def __init__(self):
-        self.name = "Boubanda Levi Junior"
-        self.school = "Aivancity | IA & Data Science"
-        self.status = "🔎 Alternance dès Septembre 2025"
-        self.skills = ["ML", "DL", "NLP", "Vision", "MLOps"]
-        self.tools = {
-            "Langages": ["Python", "SQL", "R"],
-            "Frameworks": ["Scikit-learn", "XGBoost", "PyTorch"],
-            "Cloud": ["AWS", "GCP", "Azure"],
-            "Apps": ["Streamlit", "FastAPI", "LangChain"]
-        }
-
-    def __str__(self):
-        return f"{self.name} | {self.status}"
-
-me = DataScientist()
-print(me)
-
-```mermaid
-pie showData
-    title Compétences IA & Data Science
-    "Machine Learning": 20
-    "Deep Learning (CNN, LSTM, Transformers)": 15
-    "NLP & Text Mining": 15
-    "Computer Vision": 10
-    "Data Visualisation & BI": 10
-    "Big Data & Cloud": 15
-    "MLOps & DevOps": 10
-    "Statistiques & Mathématiques": 5
+</div>
