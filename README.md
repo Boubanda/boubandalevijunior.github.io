@@ -103,3 +103,33 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lévi-junior016)
 
 </div>
+## 🧠 Vision & Optimisation des Processus
+
+En tant que futur Data Scientist orienté performance, je m’intéresse aussi à l’impact de la **data dans l’optimisation des processus RH** et décisionnels. Voici quelques leviers clés que je valorise dans un contexte de recrutement ou de gestion projet :
+
+### ⚡️ Accélérer le processus et réduire les délais
+
+- 🔽 **Réduire le temps entre les entretiens et la décision** :
+  - Limiter à **2 à 3 tours d’entretiens maximum**.
+  - Organiser des **ateliers de recrutement (assessment centers)** pour évaluer plusieurs compétences en **une seule journée**.
+  
+- 🔁 **Privilégier des processus agiles** :
+  - Mettre en place un **recrutement continu** sur les postes clés via une approche *talent pool*.
+  - Adopter un suivi rapide des candidatures avec synchronisation RH & tech.
+
+---
+
+### 📊 Mesurer & Optimiser en continu
+
+- 📉 **Utiliser des KPIs de recrutement pour piloter la performance** :
+  - Taux d’abandon des candidatures
+  - Temps moyen entre les étapes
+  - Satisfaction candidat (via enquêtes post-processus)
+
+- 🔍 **Optimiser à partir des données collectées** :
+  - Exemple : si de nombreux candidats abandonnent à l'étape du test technique, cela peut indiquer un **test trop long ou mal calibré**, à retravailler.
+  - Identifier les étapes créant le plus de friction ou de lenteur.
+
+---
+
+🎯 *Ma conviction : l'IA, les données et la clarté des process peuvent rendre les recrutements plus justes, plus rapides et plus humains.*
