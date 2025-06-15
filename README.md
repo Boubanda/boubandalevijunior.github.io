@@ -1,5 +1,3 @@
-# boubandalevijunior.github.io 
-
 <!-- README de Boubanda Levi Junior -->
 
 <div align="center">
