@@ -3,7 +3,7 @@
 <div align="center">
 
 # 👨‍💻 BOUBANDA LEVI JUNIOR  
-*Étudiant en IA & Data Science @ Aivancity Paris-Cachan*  
+*Étudiant en IA & Data Science @ Aivancity Paris-Villejuif *  
 🎯 **À la recherche d’une alternance IA/Data - Septembre 2025**
 
 🚀 Passionné par la **data**, l’**intelligence artificielle** et la **résolution de problèmes métiers** via des solutions innovantes et scalables.  
@@ -17,7 +17,7 @@
 
 | 🎓 Diplôme                                    | 🏫 Établissement                                   | 📍 Localisation               | 📅 Période                      | 📝 Détails                                                                                      |
 |-----------------------------------------------|--------------------------------------------------|------------------------------|-------------------------------|------------------------------------------------------------------------------------------------|
-| Programme Grande École – IA & Data Science (BAC+5) | Aivancity School for Technology, Business & Society | Paris-Cachan, France           | Depuis sept. 2023 – En cours    | Diplôme Bac+5 visé – reconnu par l’État. Focus : IA appliquée, Machine Learning, MLOps, Big Data, LLMs |
+| Programme Grande École – IA & Data Science (BAC+5) | Aivancity School for Technology, Business & Society | Paris-Villejuif, France           | Depuis sept. 2023 – En cours    | Diplôme Bac+5 visé – reconnu par l’État. Focus : IA appliquée, Machine Learning, MLOps, Big Data, LLMs |
 | Diplôme du Premier Cycle en Technologie        | École Supérieure Privée d'Ingénieurs de Monastir | Monastir, Tunisie             | sept. 2020 – juil. 2022        | Tronc commun en ingénierie : Analyse, Algèbre, Physique, Automatisme, Informatique, Conception mécanique  |
 | Baccalauréat Technologique                      | Lycée Technique National Omar Bongo               | Libreville, Gabon             | sept. 2019 – juil. 2020        | Sciences de l’ingénieur & bases scientifiques appliquées                                        |
 
@@ -76,7 +76,7 @@
 | 🏦 **Détection de Fraude**    | Classification de transactions bancaires suspectes | `XGBoost`, `Scikit-learn`, `Pandas` |
 | 🤖 **Chatbot Éducatif**       | Assistant RAG pour lycéens (FAQ automatisée)     | `LangChain`, `LLMs`, `HuggingFace` |
 
-📂 Plus de projets sur mon [portfolio](https://boubandalevijunior.github.io)
+📂 Plus de projets sur mon [portfolio](https://mon-portfolio-nine-lime.vercel.app/))
 
 ---
 
@@ -129,7 +129,7 @@ En tant que Data Scientist, je m’intéresse à l’usage de la data pour amél
 ## 🌍 Version Anglaise
 
 ### 👨‍🎓 About Me  
-4th-year **AI & Data Science** student at Aivancity Paris-Cachan.  
+4th-year **AI & Data Science** student at Aivancity Paris-Villejuif .  
 Looking for a **12-24 month apprenticeship** as a:
 
 - Data Scientist  
